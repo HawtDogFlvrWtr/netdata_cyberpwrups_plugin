@@ -19,7 +19,7 @@
 
 ## About ##
 
-[NetData](https://github.com/firehol/netdata/) plugin that polls Nvidia GPU data.
+[NetData](https://github.com/firehol/netdata/) plugin that polls Cyberpower UPS data.
 
 ## Requirements ##
 
